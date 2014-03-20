@@ -1,6 +1,6 @@
 # ICSDrawerController
 
-ICSDrawerController is a left-side drawer controller for iPhone (iOS 7 or later). 
+ICSDrawerController is a left-side drawer controller for iPhone (iOS 6 or later). Backwards-compatibility has been added for use in real-world projects. 
 
 It has all the features you'd expect from a side drawer controller, plus it's small, easy to read and tailor to your needs.
 
@@ -42,6 +42,7 @@ For a concrete example on how to use this controller, have a look at the provide
 ## About
 ICSDrawerController was built to be used in our app [Remember the Tripod](http://rememberthetripod.icecreamstudios.com), brought to you by Ludovico Rossi and Vito Modena at [ice cream studios](http://icecreamstudios.com) (also developers of [Writings for iPad](http://www.writingsapp.com) and [Stories for iPhone](http://stories.icecreamstudios.com)). You can drop us a line at [opensource@icecreamstudios.com](mailto:opensource@icecreamstudios.com).
 
+iOS6 Support Added and maintained by [David Benko](http://davidbenko.me). This version will continue to be a standalone fork from the original project. 
 
 ## License
 ICSDrawerController and the Colors example are made available under the [MIT License](LICENSE).
